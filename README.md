@@ -10,7 +10,7 @@ Official macOS releases and signed Sparkle update feed for [AVE](https://aivideo
 
 ## Latest release
 
-AVE 1.0.19 fixes a media-import deadlock that could prevent projects from saving, makes missing export records removable, and keeps library search compact until it is needed.
+AVE 1.0.20 adds direct canvas graphic resizing, smart timeline snapping, shared color tools, faster update controls, and safer interrupted-import recovery.
 
 The download is approximately **1.23 GB** because the complete Local AI engine, Local Vision Lite, Fast Captions, and starter models are included in the app package.
 
@@ -29,7 +29,7 @@ AVE currently requires macOS 14 or later on an Apple Silicon Mac.
 - The public Sparkle `appcast.xml` update feed.
 - Release notes and checksums for published artifacts.
 
-AVE 1.0.17 build 19 and AVE 1.0.18 update directly to 1.0.19 through the signed Sparkle feed. Existing AVE 1.0.15 and 1.0.16 installations first receive a small compatibility update, then AVE downloads and installs the complete package. Projects, settings, accounts, downloaded models, and linked model folders remain in place.
+AVE 1.0.17 build 19, AVE 1.0.18, and AVE 1.0.19 update directly to 1.0.20 through the signed Sparkle feed. Existing AVE 1.0.15 and 1.0.16 installations first receive a small compatibility update, then AVE downloads and installs the complete package. Projects, settings, accounts, downloaded models, and linked model folders remain in place.
 
 ## Support
 

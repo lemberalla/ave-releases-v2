@@ -27,18 +27,18 @@
 
 AVE combines a real non-linear editor with project-aware AI. The editor stays in control: AI can search and reason over your project, but timeline changes run through visible AVE editing tools you can inspect and refine.
 
-## Latest release — AVE 1.0.20
+## Latest release — AVE 1.0.21
 
-AVE 1.0.20 makes hands-on editing faster and release recovery safer:
+AVE 1.0.21 makes AI-authored lower thirds more reliable across Ask, Plan and MCP:
 
-- Resize selected graphics directly from canvas corners and edges, with centered resizing and safe-area snapping.
-- Move and trim timeline clips with smart snapping; hold **Option** before or during the gesture to bypass it temporarily.
-- Use one shared color workflow across graphics, captions and chroma key, including validated hex values and the macOS eyedropper.
-- Start available app updates from the status bar and follow clearer download progress.
-- Recover interrupted media imports more safely when macOS remounts an external volume.
+- Require the correct text fields for each lower-third template before applying the graphic.
+- Keep phrases such as “Web version” or “TikTok version” inside graphic copy instead of treating them as new output requests.
+- Fall back to a safe five-second lifespan when an AI plan supplies an invalid graphic duration.
+- Preserve each template's native placement and styling unless the request intentionally overrides them.
+- Keep the 50% lifetime launch offer available through August 15, 2026.
 
 <p align="center">
-  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.0.20 for Mac →</strong></a>
+  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.0.21 for Mac →</strong></a>
 </p>
 
 ## Built for real editing

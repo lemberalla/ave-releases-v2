@@ -27,18 +27,18 @@
 
 AVE combines a real non-linear editor with project-aware AI. The editor stays in control: AI can search and reason over your project, but timeline changes run through visible AVE editing tools you can inspect and refine.
 
-## Latest release — AVE 1.0.21
+## Latest release — AVE 1.0.22
 
-AVE 1.0.21 makes AI-authored lower thirds more reliable across Ask, Plan and MCP:
+AVE 1.0.22 makes the path from AVE Free to AVE Pro easier to find and complete:
 
-- Require the correct text fields for each lower-third template before applying the graphic.
-- Keep phrases such as “Web version” or “TikTok version” inside graphic copy instead of treating them as new output requests.
-- Fall back to a safe five-second lifespan when an AI plan supplies an invalid graphic duration.
-- Preserve each template's native placement and styling unless the request intentionally overrides them.
-- Keep the 50% lifetime launch offer available through August 15, 2026.
+- Add direct purchase and license-activation actions to the app footer for Free users.
+- Open Settings at the right section and focus the license-key field when activation is selected.
+- Show a subtle, dismissible Home reminder after a Free limit is reached.
+- Make AVE Pro benefits easier to notice in Settings without overpowering the editor.
+- Use clear AVE purchase and license wording throughout the app.
 
 <p align="center">
-  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.0.21 for Mac →</strong></a>
+  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.0.22 for Mac →</strong></a>
 </p>
 
 ## Built for real editing

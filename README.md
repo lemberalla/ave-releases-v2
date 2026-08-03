@@ -25,20 +25,20 @@
 
 ---
 
-AVE combines a real non-linear editor with project-aware AI. The editor stays in control: AI can search and reason over your project, but timeline changes run through visible AVE editing tools you can inspect and refine.
+AVE combines a real non-linear editor with project-aware AI. Search and reason over existing footage, generate new video or images with your own provider accounts, and keep timeline changes visible and editable.
 
-## Latest release — AVE 1.0.23
+## Latest release — AVE 1.0.25
 
-AVE 1.0.23 adds reviewable, collection-aware asset naming and safer media imports:
+AVE 1.0.25 expands media generation and sharpens everyday editor workflows:
 
-- Turn camera filenames into useful AVE display names using project context and available local analysis.
-- Review, edit, exclude, apply and undo Smart Rename proposals before they affect the project.
-- Use Smart Rename from Assets, Ask, Plan and connected MCP assistants.
-- Keep original files and AVE-managed media copies unchanged.
-- Avoid false-positive source-media-changed errors when copied media content is intact.
+- Generate video and images with Google Veo, Google Nano Banana, Runway, Luma, Kling, fal.ai and Seedance through provider-aware controls.
+- Use text-to-video, image-to-video, image generation and image editing where supported by the selected provider.
+- Search the global Asset Library from inside a project, preview assets and import them directly into the active edit.
+- Work with a cleaner editor header, Assistant controls, asset panel, timeline lanes and toolbar interaction states.
+- Apply simple audio trims, extensions and fades directly through Ask mode.
 
 <p align="center">
-  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.0.23 for Mac →</strong></a>
+  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.0.25 for Mac →</strong></a>
 </p>
 
 ## Built for real editing
@@ -48,7 +48,7 @@ AVE 1.0.23 adds reviewable, collection-aware asset naming and safer media import
 - **Local asset intelligence** — analyze visual content and speech, search by intent, find useful moments, preview source results and organize assets with Smart Rename.
 - **Graphics and captions** — build titles, lower thirds, layered graphics, standard or karaoke captions, transitions and motion with preview-to-export consistency.
 - **Native rendering** — refine the result by hand, run export preflight and render finished video locally from the Mac app.
-- **Flexible AI setup** — use the bundled Local AI engine, an installed CLI assistant or an OpenAI-compatible provider you choose.
+- **Flexible AI setup** — use the bundled Local AI engine, an installed CLI assistant, an OpenAI-compatible endpoint or your own media-generation providers.
 
 ## From footage to finished cut
 

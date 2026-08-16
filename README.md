@@ -27,18 +27,18 @@
 
 AVE combines a real non-linear editor with project-aware AI. Search and reason over existing footage, generate new video or images with your own provider accounts, and keep timeline changes visible and editable.
 
-## Latest release — AVE 1.0.25
+## Latest release — AVE 1.1.0
 
-AVE 1.0.25 expands media generation and sharpens everyday editor workflows:
+AVE 1.1.0 expands agentic editing, deepens timeline controls and modernizes the editor:
 
-- Generate video and images with Google Veo, Google Nano Banana, Runway, Luma, Kling, fal.ai and Seedance through provider-aware controls.
-- Use text-to-video, image-to-video, image generation and image editing where supported by the selected provider.
-- Search the global Asset Library from inside a project, preview assets and import them directly into the active edit.
-- Work with a cleaner editor header, Assistant controls, asset panel, timeline lanes and toolbar interaction states.
-- Apply simple audio trims, extensions and fades directly through Ask mode.
+- Apply complete edit requests through shared Ask, Plan, CLI and MCP timeline contracts with clearer recovery.
+- Let the Assistant find relevant footage in the global Asset Library and bring selected assets into the current edit.
+- Use Ripple, Roll and Slip tools, visible shortcuts, two-clip swapping and improved trim, transition and envelope controls.
+- Finish edits with direct visual fades, clip alignment and richer opacity and audio automation.
+- Work in a modernized editor with improved viewer controls, project startup, navigation and creation.
 
 <p align="center">
-  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.0.25 for Mac →</strong></a>
+  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.1.0 for Mac →</strong></a>
 </p>
 
 ## Built for real editing

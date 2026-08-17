@@ -27,18 +27,20 @@
 
 AVE combines a real non-linear editor with project-aware AI. Search and reason over existing footage, generate new video or images with your own provider accounts, and keep timeline changes visible and editable.
 
-## Latest release — AVE 1.1.0
+## Latest release — AVE 1.1.1
 
-AVE 1.1.0 expands agentic editing, deepens timeline controls and modernizes the editor:
+AVE 1.1.1 adds true 4K delivery, visual transition previews, safer gap-aware exports and richer sequence backgrounds:
 
-- Apply complete edit requests through shared Ask, Plan, CLI and MCP timeline contracts with clearer recovery.
-- Let the Assistant find relevant footage in the global Asset Library and bring selected assets into the current edit.
-- Use Ripple, Roll and Slip tools, visible shortcuts, two-clip swapping and improved trim, transition and envelope controls.
-- Finish edits with direct visual fades, clip alignment and richer opacity and audio automation.
-- Work in a modernized editor with improved viewer controls, project startup, navigation and creation.
+- Export 4K UHD at 3840 × 2160 with resolution-aware bitrate choices, clearer output summaries and an upscaling warning for lower-resolution footage.
+- Browse Transitions and Graphics in searchable visual catalogs with categories, duration labels and live hover or keyboard-focus previews.
+- Detect primary-video gaps before export, then close gaps for review or close them and export immediately.
+- Keep transition editing and export reliable after clips are split or compacted by repairing valid endpoints and rejecting stale orphan transitions.
+- Build sequence backgrounds from solid colors, gradients, grained meshes or custom images with fit, blur, dim, scale and positioning controls.
+- Judge format, frame rate, backgrounds, guides and sequence settings from a compact live viewer toolbar.
+- Use refined fully rounded primary actions with a hover-only liquid-metal treatment.
 
 <p align="center">
-  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.1.0 for Mac →</strong></a>
+  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.1.1 for Mac →</strong></a>
 </p>
 
 ## Built for real editing

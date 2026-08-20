@@ -27,20 +27,18 @@
 
 AVE combines a real non-linear editor with project-aware AI. Search and reason over existing footage, generate new video or images with your own provider accounts, and keep timeline changes visible and editable.
 
-## Latest release — AVE 1.1.1
+## Latest release — AVE 1.1.2
 
-AVE 1.1.1 adds true 4K delivery, visual transition previews, safer gap-aware exports and richer sequence backgrounds:
+AVE 1.1.2 brings the live viewer and native export into alignment across color, 4K layout and timeline boundaries:
 
-- Export 4K UHD at 3840 × 2160 with resolution-aware bitrate choices, clearer output summaries and an upscaling warning for lower-resolution footage.
-- Browse Transitions and Graphics in searchable visual catalogs with categories, duration labels and live hover or keyboard-focus previews.
-- Detect primary-video gaps before export, then close gaps for review or close them and export immediately.
-- Keep transition editing and export reliable after clips are split or compacted by repairing valid endpoints and rejecting stale orphan transitions.
-- Build sequence backgrounds from solid colors, gradients, grained meshes or custom images with fit, blur, dim, scale and positioning controls.
-- Judge format, frame rate, backgrounds, guides and sequence settings from a compact live viewer toolbar.
-- Use refined fully rounded primary actions with a hover-only liquid-metal treatment.
+- Match brightness, contrast, saturation, temperature and tint between the live viewer, transition previews and native exports through one shared SDR color pipeline.
+- Tag exported video consistently as Rec.709 SDR for compatible playback software.
+- Scale clip positions, motion keyframes, camera offsets, graphics and transitions correctly when exporting a 1080p sequence at 4K.
+- Stop completed clips, graphics and rendered transition segments at their intended timeline boundaries instead of persisting a final frame.
+- Delete a transition explicitly from its standard edit menu.
 
 <p align="center">
-  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.1.1 for Mac →</strong></a>
+  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.1.2 for Mac →</strong></a>
 </p>
 
 ## Built for real editing

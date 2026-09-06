@@ -27,20 +27,19 @@
 
 AVE combines a real non-linear editor with project-aware AI. Search and reason over existing footage, generate new video or images with your own provider accounts, and keep timeline changes visible and editable.
 
-## Latest release — AVE 1.1.3
+## Latest release — AVE 1.2.0
 
-AVE 1.1.3 improves mask and background fidelity between the live viewer and final renders, adds safer sequence controls and makes inspector values faster to edit:
+Edit recordings by selecting their words. AVE 1.2.0 adds transcript editing, speech cleanup, and better captions:
 
-- Align rectangle, ellipse and freeform mask geometry between the live viewer and exported video across output resolutions.
-- Add rounded corners to rectangle masks with consistent preview, animation and render behavior.
-- Improve grained mesh background alignment and render quality.
-- Add a compact sequence-length control, make 60 seconds the default for new sequences and safely bound typed duration values.
-- Keep source replacements within the replacement media's valid range while preserving the existing timeline duration whenever possible.
-- Update numeric inspector values live, make the full field selectable and support larger Shift + Arrow adjustments.
-- Make inactive chroma-key settings visibly and functionally disabled until the key is enabled.
+- Select words to split or remove a passage, or turn an excerpt into a new sequence.
+- Preview filler words and long pauses before choosing which cuts to apply.
+- Keep automatic captions aligned as you trim and rearrange clips.
+- Try Pro free for seven days, with no card required. Projects, manual editing, and watermark-free exports remain available afterward.
+- Choose Monthly or Lifetime Pro. Existing Lifetime owners get the new Pro features too.
+- Get more complete captions, resizable side panels, and improvements to clip timing and export checks.
 
 <p align="center">
-  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.1.3 for Mac →</strong></a>
+  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.2.0 for Mac →</strong></a>
 </p>
 
 ## Built for real editing

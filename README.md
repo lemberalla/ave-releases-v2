@@ -27,18 +27,18 @@
 
 AVE combines a real non-linear editor with project-aware AI. Search and reason over existing footage, generate new video or images with your own provider accounts, and keep timeline changes visible and editable.
 
-## Latest release — AVE 1.2.1
+## Latest release — AVE 1.2.2
 
-Take your rough cut to Final Cut Pro, and work with dialogue through the Assistant and connected agents.
+Turn multiple recordings into a clean, reviewable selects sequence before you start the edit.
 
-- Export an editable Final Cut Pro timeline with cuts, audio levels, captions, and supported still images.
-- Choose plain subtitles or editable caption titles, and include source media for handoff.
-- Read, split, remove, or extract dialogue through the Assistant and MCP.
-- Find recordings even when the timeline is empty, with clearer recording choices and transcription guidance.
-- Help improve AVE with anonymous usage analytics, which you can turn off in Settings.
+- Select multiple recordings and use Batch Selects to find their strongest usable ranges while keeping each source separate.
+- Review suggested keeps, removals, and shot boundaries before AVE creates a new sequence.
+- Open the same Batch Selects review from the Assistant or a connected MCP agent.
+- Use a compact action bar for Rename, Analyze, Selects, Move, and Delete when assets are selected.
+- Open AVE Guides directly from the editor footer or Settings.
 
 <p align="center">
-  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.2.1 for Mac →</strong></a>
+  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.2.2 for Mac →</strong></a>
 </p>
 
 ## Built for real editing

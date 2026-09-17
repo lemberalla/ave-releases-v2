@@ -27,18 +27,18 @@
 
 AVE combines a real non-linear editor with project-aware AI. Search and reason over existing footage, generate new video or images with your own provider accounts, and keep timeline changes visible and editable.
 
-## Latest release — AVE 1.2.2
+## Latest release — AVE 1.2.3
 
-Turn multiple recordings into a clean, reviewable selects sequence before you start the edit.
+Export exactly the part you need, and take your captions wherever your video goes.
 
-- Select multiple recordings and use Batch Selects to find their strongest usable ranges while keeping each source separate.
-- Review suggested keeps, removals, and shot boundaries before AVE creates a new sequence.
-- Open the same Batch Selects review from the Assistant or a connected MCP agent.
-- Use a compact action bar for Rename, Analyze, Selects, Move, and Delete when assets are selected.
-- Open AVE Guides directly from the editor footer or Settings.
+- Export the entire sequence or a precise range with In and Out handles, frame-aware timecodes, and an editable duration.
+- Save edited captions as SRT or WebVTT subtitle files for other editors and video platforms.
+- Export silent video imported through connected assistants, including older projects missing audio information.
+- Get clearer export errors with technical details you can copy for support.
+- Updated app runtime and updater for macOS 27, with continued support for macOS 14 and later.
 
 <p align="center">
-  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.2.2 for Mac →</strong></a>
+  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.2.3 for Mac →</strong></a>
 </p>
 
 ## Built for real editing

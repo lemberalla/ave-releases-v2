@@ -27,18 +27,18 @@
 
 AVE combines a real non-linear editor with project-aware AI. Search and reason over existing footage, generate new video or images with your own provider accounts, and keep timeline changes visible and editable.
 
-## Latest release — AVE 1.2.3
+## Latest release — AVE 1.2.4
 
-Export exactly the part you need, and take your captions wherever your video goes.
+Export your selects as separate videos, with more consistent colour from preview to export.
 
-- Export the entire sequence or a precise range with In and Out handles, frame-aware timecodes, and an editable duration.
-- Save edited captions as SRT or WebVTT subtitle files for other editors and video platforms.
-- Export silent video imported through connected assistants, including older projects missing audio information.
-- Get clearer export errors with technical details you can copy for support.
-- Updated app runtime and updater for macOS 27, with continued support for macOS 14 and later.
+- Export Batch Selects as separate videos with timeline edits, graphics, and audio.
+- Choose output names and a destination folder, follow progress, and optionally include trimmed SRT or WebVTT subtitle files.
+- Guided setup makes creating selects and choosing a destination clearer.
+- Improved colour consistency for strong grades, transparency, and transitions.
+- Refresh source colour information for older projects and improve HDR-to-SDR conversion.
 
 <p align="center">
-  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.2.3 for Mac →</strong></a>
+  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.2.4 for Mac →</strong></a>
 </p>
 
 ## Built for real editing

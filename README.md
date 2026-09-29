@@ -27,18 +27,18 @@
 
 AVE combines a real non-linear editor with project-aware AI. Search and reason over existing footage, generate new video or images with your own provider accounts, and keep timeline changes visible and editable.
 
-## Latest release — AVE 1.2.4
+## Latest release — AVE 1.2.5
 
-Export your selects as separate videos, with more consistent colour from preview to export.
+Consistent colour for HDR footage, from thumbnails to your finished SDR export.
 
-- Export Batch Selects as separate videos with timeline edits, graphics, and audio.
-- Choose output names and a destination folder, follow progress, and optionally include trimmed SRT or WebVTT subtitle files.
-- Guided setup makes creating selects and choosing a destination clearer.
-- Improved colour consistency for strong grades, transparency, and transitions.
-- Refresh source colour information for older projects and improve HDR-to-SDR conversion.
+- Fixed washed-out or mismatched HDR colours in thumbnails, the editor, analysis frames, and SDR exports, including iPhone Dolby Vision footage.
+- Prepare HDR footage once with macOS hardware acceleration and reuse the cached result across playback, analysis, and exports.
+- Preserve portrait orientation, frame timing, audio, and colour adjustments. Original recordings stay untouched.
+- Bound oversized AI analysis images to a 1,280-pixel longest edge while leaving smaller images and full-quality exports unchanged.
+- Show a concise notice when first-time HDR preparation needs extra time.
 
 <p align="center">
-  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.2.4 for Mac →</strong></a>
+  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.2.5 for Mac →</strong></a>
 </p>
 
 ## Built for real editing

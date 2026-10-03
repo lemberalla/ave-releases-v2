@@ -27,18 +27,20 @@
 
 AVE combines a real non-linear editor with project-aware AI. Search and reason over existing footage, generate new video or images with your own provider accounts, and keep timeline changes visible and editable.
 
-## Latest release — AVE 1.2.5
+## Latest release — AVE 1.2.6
 
-Consistent colour for HDR footage, from thumbnails to your finished SDR export.
+Your ideas, in motion. Create animated videos, titles, lower thirds, and overlays with your configured assistant.
 
-- Fixed washed-out or mismatched HDR colours in thumbnails, the editor, analysis frames, and SDR exports, including iPhone Dolby Vision footage.
-- Prepare HDR footage once with macOS hardware acceleration and reuse the cached result across playback, analysis, and exports.
-- Preserve portrait orientation, frame timing, audio, and colour adjustments. Original recordings stay untouched.
-- Bound oversized AI analysis images to a 1,280-pixel longest edge while leaving smaller images and full-quality exports unchanged.
-- Show a concise notice when first-time HDR preparation needs extra time.
+- Describe a brief and review a locally rendered preview in the floating motion composer.
+- Refine the animation and customize exposed text, colors, and other properties before adding it to the timeline.
+- Keep generated motion as an editable project asset, place it on video or graphics tracks, and export through AVE's normal local video flow.
+- Open Video & images and Motion graphics directly from the header.
+- Discover supported CLI models from the installed assistant instead of a fixed catalog.
+
+Read the [motion graphics guide](https://aivideoeditor.app/guides/create-motion-graphics/) for setup, creative briefs, refinement, track placement, and export. There is no separate motion-rendering account or API key; your selected assistant retains its own access requirements.
 
 <p align="center">
-  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.2.5 for Mac →</strong></a>
+  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.2.6 for Mac →</strong></a>
 </p>
 
 ## Built for real editing
@@ -46,6 +48,7 @@ Consistent colour for HDR footage, from thumbnails to your finished SDR export.
 - **Editable timeline** — trim, split, ripple, move, duplicate, retime and close gaps across video, audio, captions and graphics.
 - **Project-aware Ask and Plan** — search footage, answer project questions, apply supported direct actions or preview a multi-step edit before it changes the sequence.
 - **Local asset intelligence** — analyze visual content and speech, search by intent, find useful moments, preview source results and organize assets with Smart Rename.
+- **Custom motion graphics** — create, preview, refine, customize, and reuse animated compositions with your configured assistant. Rendering happens on your Mac.
 - **Graphics and captions** — build titles, lower thirds, layered graphics, standard or karaoke captions, transitions and motion with preview-to-export consistency.
 - **Native rendering** — refine the result by hand, run export preflight and render finished video locally from the Mac app.
 - **Flexible AI setup** — use the bundled Local AI engine, an installed CLI assistant, an OpenAI-compatible endpoint or your own media-generation providers.

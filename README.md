@@ -27,20 +27,20 @@
 
 AVE combines a real non-linear editor with project-aware AI. Search and reason over existing footage, generate new video or images with your own provider accounts, and keep timeline changes visible and editable.
 
-## Latest release — AVE 1.2.6
+## Latest release — AVE 1.2.7
 
-Your ideas, in motion. Create animated videos, titles, lower thirds, and overlays with your configured assistant.
+Cleaner transcripts, safer placement. Skip invented speech, keep graphics off your footage, and plan multi-format edits from one brief.
 
-- Describe a brief and review a locally rendered preview in the floating motion composer.
-- Refine the animation and customize exposed text, colors, and other properties before adding it to the timeline.
-- Keep generated motion as an editable project asset, place it on video or graphics tracks, and export through AVE's normal local video flow.
-- Open Video & images and Motion graphics directly from the header.
-- Discover supported CLI models from the installed assistant instead of a fixed catalog.
+- Built-in voice detection skips transcription on music, ambience, and noise, so silent or musical passages no longer produce invented sentences.
+- Motion graphics and titles go to a free track or a new one instead of covering clips already on the timeline.
+- Turn a motion graphic's background off or on instantly without asking the assistant again; placing it on a Graphics track removes the background automatically.
+- Plan mode campaigns create every format from one brief, such as 16:9 and 9:16 versions, and fill each version to its requested length.
+- Ask mode hands multi-version briefs to Plan mode with one click, and connected assistants can no longer apply an edit to a different clip than the one they named.
 
-Read the [motion graphics guide](https://aivideoeditor.app/guides/create-motion-graphics/) for setup, creative briefs, refinement, track placement, and export. There is no separate motion-rendering account or API key; your selected assistant retains its own access requirements.
+See the [release notes](https://aivideoeditor.app/release-notes/) for every fix in this version.
 
 <p align="center">
-  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.2.6 for Mac →</strong></a>
+  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.2.7 for Mac →</strong></a>
 </p>
 
 ## Built for real editing

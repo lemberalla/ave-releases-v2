@@ -48,6 +48,7 @@ See the [release notes](https://aivideoeditor.app/release-notes/) for every fix 
 - **Editable timeline** — trim, split, ripple, move, duplicate, retime and close gaps across video, audio, captions and graphics.
 - **Project-aware Ask and Plan** — search footage, answer project questions, apply supported direct actions or preview a multi-step edit before it changes the sequence.
 - **Local asset intelligence** — analyze visual content and speech, search by intent, find useful moments, preview source results and organize assets with Smart Rename.
+- **Screen recording** — capture a screen, window, or area with optional camera and audio on macOS 15 or later. Choose original mesh backgrounds or your own image, then edit cursor, camera, zooms, and privacy masks on the timeline. [Recording guide](https://www.aivideoeditor.app/guides/record-and-edit-your-screen/).
 - **Custom motion graphics** — create, preview, refine, customize, and reuse animated compositions with your configured assistant. Rendering happens on your Mac.
 - **Graphics and captions** — build titles, lower thirds, layered graphics, standard or karaoke captions, transitions and motion with preview-to-export consistency.
 - **Native rendering** — refine the result by hand, run export preflight and render finished video locally from the Mac app.
@@ -74,7 +75,7 @@ External assistants and API providers are optional. If you connect one, AVE send
 2. Open the DMG and drag AVE into Applications.
 3. Launch AVE and create or open a local project.
 
-AVE requires **macOS 14 or later** on an **Apple Silicon Mac, M1 or later**. The complete download is approximately **1.23 GB** because the Local AI runtime and starter analysis models are included.
+AVE requires **macOS 14 or later** on an **Apple Silicon Mac, M1 or later**. Screen recording requires **macOS 15 or later** and is included in AVE Free. The complete download is approximately **1.24 GB** because the Local AI runtime and starter analysis models are included.
 
 ## Release files
 

@@ -27,24 +27,22 @@
 
 AVE combines a real non-linear editor with project-aware AI. Search and reason over existing footage, generate new video or images with your own provider accounts, and keep timeline changes visible and editable.
 
-## Latest release — AVE 1.2.10
+## Latest release — AVE 1.2.11
 
-Record your screen. Make it yours. Capture directly in AVE and refine backgrounds, camera, cursor, and zooms on the timeline.
+Start with guided editing, work in your language, and keep portable backups of your projects.
 
-- Record a screen, window, or selected area directly in AVE on macOS 15 or later, with optional microphone, camera, and system audio.
-- Set the aspect ratio, frame rate, and countdown before starting. Background and frame controls are available first, with a mesh background and 16:9 canvas as the starting experience.
-- Choose from 20 original AVE backgrounds across Vivid, Soft, Night, and Flow, or add your own image. Adjust padding, corners, blur, and shadow.
-- Place your camera in any corner and choose Squircle, Wide, Circle, or Square. Customize the cursor, smooth movement, and click effects.
-- Edit the completed recording on the existing timeline. Adjust or remove individual zooms, add privacy masks, and change camera layout and audio after capture.
-- Export locally through AVE's video workflow, or save a recording clip of up to 60 seconds as a GIF.
-- Split clips with ⌘B and toggle the sidebar with ⌘\\. Timeline shortcuts no longer fire while using fields, dropdowns, or modals.
-- Dismiss the Assets Pro card and see the empty Moments state centered in the panel.
-- Screen recording is included in the seven-day AVE Pro trial and requires Pro afterward. Saved recordings remain editable and exportable.
+- Use AVE in Simplified Chinese, Arabic, Japanese, Spanish, French, German, or Turkish. Follow your system language or choose one in Settings.
+- Start with sample footage, create a motion graphic, edit with AI, work from a transcript, or record your screen through guided onboarding.
+- Open the coffee sample ready for transcript editing, or add your own footage to the timeline and transcribe it locally without configuring an assistant.
+- Back up projects with source media, generated assets, transcripts, and preferences. Import them as new project copies, with rendered exports included when you choose.
+- Find settings, editing actions, and individual guides in the command palette. See clearer settings, modal errors, and indicators for assets used on the timeline.
+- Enjoy softer borders, darker Midnight surfaces, and native window dragging and title-bar double-click behavior across onboarding and app pages.
+- Control recording workflows through MCP and the assistant. Split clips with ⌘\, toggle the navigation sidebar with ⌘B, and toggle the tools sidebar with ⌘⇧B.
 
 See the [release notes](https://aivideoeditor.app/release-notes/) for the full feature list.
 
 <p align="center">
-  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.2.10 for Mac →</strong></a>
+  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.2.11 for Mac →</strong></a>
 </p>
 
 ## Built for real editing
@@ -79,7 +77,7 @@ External assistants and API providers are optional. If you connect one, AVE send
 2. Open the DMG and drag AVE into Applications.
 3. Launch AVE and create or open a local project.
 
-AVE requires **macOS 14 or later** on an **Apple Silicon Mac, M1 or later**. Screen recording requires **macOS 15 or later**. It is included in the **seven-day Pro trial** and requires **AVE Pro** afterward. Saved recordings remain editable and exportable. The complete download is approximately **1.24 GB** because the Local AI runtime and starter analysis models are included.
+AVE requires **macOS 14 or later** on an **Apple Silicon Mac, M1 or later**. Screen recording requires **macOS 15 or later**. It is included in the **seven-day Pro trial** and requires **AVE Pro** afterward. Saved recordings remain editable and exportable. The complete download is approximately **1.25 GB** because the Local AI runtime and starter analysis models are included.
 
 ## Release files
 

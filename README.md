@@ -27,22 +27,22 @@
 
 AVE combines a real non-linear editor with project-aware AI. Search and reason over existing footage, generate new video or images with your own provider accounts, and keep timeline changes visible and editable.
 
-## Latest release — AVE 1.2.11
+## Latest release — AVE 1.2.12
 
-Start with guided editing, work in your language, and keep portable backups of your projects.
+Export screen recordings faster, keep temporary files under control, and save recordings more reliably.
 
-- Use AVE in Simplified Chinese, Arabic, Japanese, Spanish, French, German, or Turkish. Follow your system language or choose one in Settings.
-- Start with sample footage, create a motion graphic, edit with AI, work from a transcript, or record your screen through guided onboarding.
-- Open the coffee sample ready for transcript editing, or add your own footage to the timeline and transcribe it locally without configuring an assistant.
-- Back up projects with source media, generated assets, transcripts, and preferences. Import them as new project copies, with rendered exports included when you choose.
-- Find settings, editing actions, and individual guides in the command palette. See clearer settings, modal errors, and indicators for assets used on the timeline.
-- Enjoy softer borders, darker Midnight surfaces, and native window dragging and title-bar double-click behavior across onboarding and app pages.
-- Control recording workflows through MCP and the assistant. Split clips with ⌘\, toggle the navigation sidebar with ⌘B, and toggle the tools sidebar with ⌘⇧B.
+- Export screen recordings faster by preparing only the footage used in your edit, with clearer preparation progress and cancellation that releases its native helper.
+- Automatically clean unused recording export caches with a 2 GiB retained limit per project and seven-day expiry. Original recordings and finished exports stay untouched.
+- Save and recover recordings using the saved video's actual duration instead of rejecting a valid take for small timing differences.
+- Keep the floating recording controls nearly transparent while recording. Hover to restore them; countdown, paused, saving, and error states remain visible.
+- Open Monthly and Lifetime Pro checkout through the website so the same browser can restore consented download attribution. Sandbox checkout remains direct.
+
+The 2 GiB retention budget applies only to unused generated recording caches. Active exports can temporarily use more working space.
 
 See the [release notes](https://aivideoeditor.app/release-notes/) for the full feature list.
 
 <p align="center">
-  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.2.11 for Mac →</strong></a>
+  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.2.12 for Mac →</strong></a>
 </p>
 
 ## Built for real editing

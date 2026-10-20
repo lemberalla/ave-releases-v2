@@ -27,22 +27,23 @@
 
 AVE combines a real non-linear editor with project-aware AI. Search and reason over existing footage, generate new video or images with your own provider accounts, and keep timeline changes visible and editable.
 
-## Latest release — AVE 1.2.12
+## Latest release — AVE 1.2.13
 
-Export screen recordings faster, keep temporary files under control, and save recordings more reliably.
+Create videos more reliably with connected assistants, use AVE in Thai, and open guides in your app language.
 
-- Export screen recordings faster by preparing only the footage used in your edit, with clearer preparation progress and cancellation that releases its native helper.
-- Automatically clean unused recording export caches with a 2 GiB retained limit per project and seven-day expiry. Original recordings and finished exports stay untouched.
-- Save and recover recordings using the saved video's actual duration instead of rejecting a valid take for small timing differences.
-- Keep the floating recording controls nearly transparent while recording. Hover to restore them; countdown, paused, saving, and error states remain visible.
-- Open Monthly and Lifetime Pro checkout through the website so the same browser can restore consented download attribution. Sandbox checkout remains direct.
+- Discover all 29 MCP tools immediately on connection, including project creation, timeline editing, and export. Planner preferences, permission grants, and approval checks still apply when tools run.
+- Inspect recording clips and long effect lists through bounded pages, with consistent validation and clearer recovery instructions.
+- Read progress and cancel jobs started by your assistant without granting unrelated editing access.
+- Open separate-file export review from connected assistants, and include every requested frame in MCP video exports.
+- Use AVE in Thai, including menus, settings, and recording permission prompts.
+- Follow website guides in the language selected in AVE.
 
-The 2 GiB retention budget applies only to unused generated recording caches. Active exports can temporarily use more working space.
+Reconnect your assistant after updating to refresh its MCP tools. No project migration is required.
 
 See the [release notes](https://aivideoeditor.app/release-notes/) for the full feature list.
 
 <p align="center">
-  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.2.12 for Mac →</strong></a>
+  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.2.13 for Mac →</strong></a>
 </p>
 
 ## Built for real editing

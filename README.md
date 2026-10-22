@@ -27,7 +27,7 @@
 
 AVE combines a real non-linear editor with project-aware AI. Search and reason over existing footage, generate new video or images with your own provider accounts, and keep timeline changes visible and editable.
 
-## Latest release — AVE 1.2.14
+## Latest release — AVE 1.2.15
 
 Create multi-frame edits and arrange your workspace, with broader MCP control and smoother previews.
 
@@ -38,10 +38,15 @@ Create multi-frame edits and arrange your workspace, with broader MCP control an
 - Control sequences, tracks, layouts, recording, review, undo, and redo through MCP.
 - Preview multiple screen recordings more smoothly, with Pro features correctly locked after the trial ends.
 
+- Open and exit full-screen preview reliably, with playback controls available.
+- Keep previews free of unintended white frame borders while preserving the borders you apply.
+- Keep Space from opening or activating dropdowns and context menus, while retaining playback shortcuts and text entry.
+- Keep asset thumbnail masks dark and labels readable in every workspace theme.
+
 Reconnect your assistant after updating to refresh its MCP tools. No project migration is required.
 
 <p align="center">
-  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.2.14 for Mac →</strong></a>
+  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.2.15 for Mac →</strong></a>
 </p>
 
 ## Built for real editing

@@ -27,26 +27,25 @@
 
 AVE combines a real non-linear editor with project-aware AI. Search and reason over existing footage, generate new video or images with your own provider accounts, and keep timeline changes visible and editable.
 
-## Latest release — AVE 1.2.15
+## Latest release — AVE 1.2.16
 
-Create multi-frame edits and arrange your workspace, with broader MCP control and smoother previews.
+Keep the familiar Classic preview or switch to Canvas to organize sequences, sections, and notes across your project.
 
-- Build editable 2–12-frame grids and picture-in-picture layouts, with video-duration defaults and adjustable frame effects.
-- Assign videos by clicking a frame or dragging from Assets. Resize layouts without losing the earliest assignments, with confirmation before extra videos leave the canvas.
-- Open Assets and Timeline in separate windows, expand Assets, and dock panels back into the editor.
-- Keep the preview visible with many tracks, scroll tracks naturally, and review layouts without editing outlines during playback.
-- Control sequences, tracks, layouts, recording, review, undo, and redo through MCP.
-- Preview multiple screen recordings more smoothly, with Pro features correctly locked after the trial ends.
-
-- Open and exit full-screen preview reliably, with playback controls available.
-- Keep previews free of unintended white frame borders while preserving the borders you apply.
-- Keep Space from opening or activating dropdowns and context menus, while retaining playback shortcuts and text entry.
-- Keep asset thumbnail masks dark and labels readable in every workspace theme.
+- Switch between Classic and Canvas views. Classic is the default, and AVE remembers your choice.
+- Arrange sequences together on a zoomable canvas, with named colored sections, alignment, distribution, and tidy controls.
+- Add text, sticky notes, and labeled arrows. Double-click to edit inline; Enter saves, Shift+Enter adds a line, and Escape cancels.
+- Create a sequence beside an existing one with your chosen format and one-step Undo. Delete sequences with confirmation while keeping source assets.
+- See the active sequence on the timeline and bring it into view with one click.
+- Play the active sequence while other visible sequences use cached previews, with clearer loading and retry states.
+- Organize the canvas through the assistant and MCP, including sections, annotations, sequence placement, and adjacent creation.
+- Review video in true full screen with black surrounds in every theme, and keep recording previews sharper when zoomed.
+- Enjoy clearer light-theme canvas contrast and context menus, with consistent splash-logo color and size.
+- Generate recording preview frames without rendering a long video prefix, and restore recording paths when opening moved projects.
 
 Reconnect your assistant after updating to refresh its MCP tools. No project migration is required.
 
 <p align="center">
-  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.2.15 for Mac →</strong></a>
+  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.2.16 for Mac →</strong></a>
 </p>
 
 ## Built for real editing

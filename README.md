@@ -27,26 +27,24 @@
 
 AVE combines a real non-linear editor with project-aware AI. Search and reason over existing footage, generate new video or images with your own provider accounts, and keep timeline changes visible and editable.
 
-## Latest release — AVE 1.2.17
+## Latest release — AVE 1.3.0
 
-Keep the familiar Classic preview or switch to Canvas to organize sequences, sections, and notes across your project.
+Create projects, find footage, and build edits with a unified assistant workflow for local models and connected cloud assistants.
 
-- Switch between Classic and Canvas views. Classic is the default, and AVE remembers your choice.
-- Arrange sequences together on a zoomable canvas, with named colored sections, alignment, distribution, and tidy controls.
-- Add text, sticky notes, and labeled arrows. Double-click to edit inline; Enter saves, Shift+Enter adds a line, and Escape cancels.
-- Create a sequence beside an existing one with your chosen format and one-step Undo. Delete sequences with confirmation while keeping source assets.
-- See the active sequence on the timeline and bring it into view with one click.
-- Play the active sequence while other visible sequences use cached previews, with clearer loading and retry states.
-- Organize the canvas through the assistant and MCP, including sections, annotations, sequence placement, and adjacent creation.
-- Review video in true full screen with black surrounds in every theme, and keep recording previews sharper when zoomed.
-- Enjoy clearer light-theme canvas contrast and context menus, with consistent splash-logo color and size.
-- Generate recording preview frames without rendering a long video prefix, and restore recording paths when opening moved projects.
-- Keep the floating settings bar and player controls out of the way during playback. They reappear on hover, keyboard focus, or pause.
+- Create a new project from the main composer, or ask the assistant to create one and continue there while preserving your previous project.
+- Find and import footage from your global asset library, then assemble multiple sequences in different formats without choosing every source yourself.
+- Use a broader set of editing tools with local and cloud assistants, including trims, audio, opacity fades, layouts, and Canvas organization.
+- Keep follow-up requests focused on your latest instructions, with clearer separation between project media, conversation history, and earlier tasks.
+- Run local assistants with context budgets that adapt to the model and available Mac memory, with improved compaction for longer conversations.
+- Follow the assistant with animated AVE dots, changing activity labels, elapsed time, and results confirmed by the editor.
+- Stop requests more reliably and keep completed edits, with clearer provider errors and recovery that avoids replaying unconfirmed changes.
+- Remove downloaded models from the model picker and see clearer download, verification, and ready states. Idle local inference caches are reclaimed automatically.
+- Keep assistant export jobs and progress available, with completion confirmed against the saved output file.
 
 Reconnect your assistant after updating to refresh its MCP tools. No project migration is required.
 
 <p align="center">
-  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.2.17 for Mac →</strong></a>
+  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.3.0 for Mac →</strong></a>
 </p>
 
 ## Built for real editing

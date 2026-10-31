@@ -27,7 +27,7 @@
 
 AVE combines a real non-linear editor with project-aware AI. Search and reason over existing footage, generate new video or images with your own provider accounts, and keep timeline changes visible and editable.
 
-## Latest release — AVE 1.3.0
+## Latest release — AVE 1.3.1
 
 Create projects, find footage, and build edits with a unified assistant workflow for local models and connected cloud assistants.
 
@@ -41,10 +41,15 @@ Create projects, find footage, and build edits with a unified assistant workflow
 - Remove downloaded models from the model picker and see clearer download, verification, and ready states. Idle local inference caches are reclaimed automatically.
 - Keep assistant export jobs and progress available, with completion confirmed against the saved output file.
 
+- Keep your prompt and Ask/Plan choice when setting up a new project in the composer. The project is created only when you send.
+- Use a tidier timeline toolbar with truncated sequence names, an icon-only layout picker, and panel options on the right.
+- Keep the update button readable across light and dark themes.
+- Download smaller signed updates when available, with the complete app retained as a fallback.
+
 Reconnect your assistant after updating to refresh its MCP tools. No project migration is required.
 
 <p align="center">
-  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.3.0 for Mac →</strong></a>
+  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.3.1 for Mac →</strong></a>
 </p>
 
 ## Built for real editing

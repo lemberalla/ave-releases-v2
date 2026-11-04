@@ -27,35 +27,23 @@
 
 AVE combines a real non-linear editor with project-aware AI. Search and reason over existing footage, generate new video or images with your own provider accounts, and keep timeline changes visible and editable.
 
-## Latest release — AVE 1.3.2
+## Latest release — AVE 1.3.3
 
-Create projects, find footage, and build edits with a unified assistant workflow for local models and connected cloud assistants.
+Style existing videos, blend layers, and find the controls you need in a reorganized Inspector.
 
-- Create a new project from the main composer, or ask the assistant to create one and continue there while preserving your previous project.
-- Find and import footage from your global asset library, then assemble multiple sequences in different formats without choosing every source yourself.
-- Use a broader set of editing tools with local and cloud assistants, including trims, audio, opacity fades, layouts, and Canvas organization.
-- Keep follow-up requests focused on your latest instructions, with clearer separation between project media, conversation history, and earlier tasks.
-- Run local assistants with context budgets that adapt to the model and available Mac memory, with improved compaction for longer conversations.
-- Follow the assistant with animated AVE dots, changing activity labels, elapsed time, and results confirmed by the editor.
-- Stop requests more reliably and keep completed edits, with clearer provider errors and recovery that avoids replaying unconfirmed changes.
-- Remove downloaded models from the model picker and see clearer download, verification, and ready states. Idle local inference caches are reclaimed automatically.
-- Keep assistant export jobs and progress available, with completion confirmed against the saved output file.
+- Navigate the Inspector through Edit, Color, Motion, Audio, Frame, and Effects, with clip details kept in Info.
+- Frame imported videos with mesh, solid, gradient, or image backgrounds, padding, rounded corners, shadows, crop, and manual zooms on macOS 15 or later.
+- Let Auto framing fill the sequence or layout cell while preserving the video's proportions.
+- Composite video layers with Multiply, Screen, Overlay, Darken, and Lighten blend modes in preview and export.
+- Set opacity directly with an editable percentage and slider, alongside animated fades.
+- See higher video tracks above lower tracks, and move clips between occupied tracks without deleting existing footage.
+- Move selected clips between tracks together, preserving their spacing with one-step Undo.
+- Use each track's options menu to switch its videos between thumbnails and editable audio waveforms.
+- Scrub numeric values horizontally or type exact values, with ellipsis and full-label tooltips for long fields.
+- Recognize destructive actions through consistent red labels, matching icons, and subtle tinted surfaces in light and dark themes.
+- Control framing, blend modes, and track waveform display through the editing assistant and MCP.
 
-- Keep your prompt and Ask/Plan choice when setting up a new project in the composer. The project is created only when you send.
-- Use a tidier timeline toolbar with truncated sequence names, an icon-only layout picker, and panel options on the right.
-- Keep the update button readable across light and dark themes.
-- Download smaller signed updates when available, with the complete app retained as a fallback.
-
-- Open AVE even when saved API keys or a Pro license cannot be unlocked, with recovery in Settings and the original encrypted data preserved.
-- Keep newly saved API keys when older settings migrate.
-- Keep screen recording previews working after repeated cuts.
-- Restore valid saved Pro licenses automatically after a failed verification, without entering the license key again.
-
-Reconnect your assistant after updating to refresh its MCP tools. No project migration is required.
-
-<p align="center">
-  <a href="https://aivideoeditor.app/download/"><strong>Download AVE 1.3.2 for Mac →</strong></a>
-</p>
+[Full release notes](https://github.com/lemberalla/ave-releases-v2/releases/tag/v1.3.3)
 
 ## Built for real editing
 
@@ -63,6 +51,8 @@ Reconnect your assistant after updating to refresh its MCP tools. No project mig
 - **Project-aware Ask and Plan** — search footage, answer project questions, apply supported direct actions or preview a multi-step edit before it changes the sequence.
 - **Local asset intelligence** — analyze visual content and speech, search by intent, find useful moments, preview source results and organize assets with Smart Rename.
 - **Screen recording** — capture a screen, window, or area with optional camera and audio on macOS 15 or later. Choose original mesh backgrounds or your own image, then edit cursor, camera, zooms, and privacy masks on the timeline. [Recording guide](https://www.aivideoeditor.app/guides/record-and-edit-your-screen/).
+- **Video frames** — style existing footage with mesh, solid, gradient or image backgrounds, rounded corners, shadows, crop and manual zooms on macOS 15 or later. [Framing guide](https://www.aivideoeditor.app/guides/frame-and-blend-videos/).
+- **Layer blending** — combine higher video tracks with editable opacity and Multiply, Screen, Overlay, Darken or Lighten blending in preview and export.
 - **Custom motion graphics** — create, preview, refine, customize, and reuse animated compositions with your configured assistant. Rendering happens on your Mac.
 - **Graphics and captions** — build titles, lower thirds, layered graphics, standard or karaoke captions, transitions and motion with preview-to-export consistency.
 - **Native rendering** — refine the result by hand, run export preflight and render finished video locally from the Mac app.

@@ -27,23 +27,21 @@
 
 AVE combines a real non-linear editor with project-aware AI. Search and reason over existing footage, generate new video or images with your own provider accounts, and keep timeline changes visible and editable.
 
-## Latest release — AVE 1.3.3
+## Latest release — AVE 1.3.4
 
-Style existing videos, blend layers, and find the controls you need in a reorganized Inspector.
+Smoother previews and faster exports, with fixes for professional footage, layouts, and captions.
 
-- Navigate the Inspector through Edit, Color, Motion, Audio, Frame, and Effects, with clip details kept in Info.
-- Frame imported videos with mesh, solid, gradient, or image backgrounds, padding, rounded corners, shadows, crop, and manual zooms on macOS 15 or later.
-- Let Auto framing fill the sequence or layout cell while preserving the video's proportions.
-- Composite video layers with Multiply, Screen, Overlay, Darken, and Lighten blend modes in preview and export.
-- Set opacity directly with an editable percentage and slider, alongside animated fades.
-- See higher video tracks above lower tracks, and move clips between occupied tracks without deleting existing footage.
-- Move selected clips between tracks together, preserving their spacing with one-step Undo.
-- Use each track's options menu to switch its videos between thumbnails and editable audio waveforms.
-- Scrub numeric values horizontally or type exact values, with ellipsis and full-label tooltips for long fields.
-- Recognize destructive actions through consistent red labels, matching icons, and subtle tinted surfaces in light and dark themes.
-- Control framing, blend modes, and track waveform display through the editing assistant and MCP.
+- Play framed videos and multi-panel layouts more smoothly.
+- Export layouts faster by reusing frame masks and shadows.
+- Reduce unnecessary processing when exporting high-frame-rate footage and supported custom ranges.
+- Keep long exports running while encoding progresses, instead of restarting after ten minutes.
+- Preview ProRes and other unsupported video formats through cached playback copies, while exports keep using the original footage.
+- Use less memory and avoid repeated audio decoding when generating waveforms.
+- Keep layout previews and exports aligned when clips move earlier on the timeline.
+- Generate short, timed captions from long transcript paragraphs so every spoken word remains visible.
+- Respect the selected panel audio settings during layout playback.
 
-[Full release notes](https://github.com/lemberalla/ave-releases-v2/releases/tag/v1.3.3)
+[Full release notes](https://github.com/lemberalla/ave-releases-v2/releases/tag/v1.3.4)
 
 ## Built for real editing
 

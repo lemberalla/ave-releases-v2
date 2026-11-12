@@ -27,21 +27,16 @@
 
 AVE combines a real non-linear editor with project-aware AI. Search and reason over existing footage, generate new video or images with your own provider accounts, and keep timeline changes visible and editable.
 
-## Latest release — AVE 1.3.4
+## Latest release — AVE 1.3.5
 
-Smoother previews and faster exports, with fixes for professional footage, layouts, and captions.
+New filters, sorting, and missing media tools make it easier to manage your library.
 
-- Play framed videos and multi-panel layouts more smoothly.
-- Export layouts faster by reusing frame masks and shadows.
-- Reduce unnecessary processing when exporting high-frame-rate footage and supported custom ranges.
-- Keep long exports running while encoding progresses, instead of restarting after ten minutes.
-- Preview ProRes and other unsupported video formats through cached playback copies, while exports keep using the original footage.
-- Use less memory and avoid repeated audio decoding when generating waveforms.
-- Keep layout previews and exports aligned when clips move earlier on the timeline.
-- Generate short, timed captions from long transcript paragraphs so every spoken word remains visible.
-- Respect the selected panel audio settings during layout playback.
+- Filter and sort Assets, Projects, and Exports using the same panel, with controls for dates and file sizes where available.
+- See how much disk space each project uses and sort projects by size.
+- Find projects with missing media, relink files and AVE recordings, or remove missing entries you no longer need.
+- Use a clearer date picker and more readable field and menu states in light and dark themes.
 
-[Full release notes](https://github.com/lemberalla/ave-releases-v2/releases/tag/v1.3.4)
+[Full release notes](https://github.com/lemberalla/ave-releases-v2/releases/tag/v1.3.5)
 
 ## Built for real editing
 

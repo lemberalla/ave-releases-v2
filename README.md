@@ -27,16 +27,16 @@
 
 AVE combines a real non-linear editor with project-aware AI. Search and reason over existing footage, generate new video or images with your own provider accounts, and keep timeline changes visible and editable.
 
-## Latest release — AVE 1.3.5
+## Latest release — AVE 1.3.6
 
-New filters, sorting, and missing media tools make it easier to manage your library.
+Set up the editing assistant from chat and pick up where you left off.
 
-- Filter and sort Assets, Projects, and Exports using the same panel, with controls for dates and file sizes where available.
-- See how much disk space each project uses and sort projects by size.
-- Find projects with missing media, relink files and AVE recordings, or remove missing entries you no longer need.
-- Use a clearer date picker and more readable field and menu states in light and dark themes.
+- The first Send guides you through choosing a local model or connecting an assistant when setup is needed.
+- AVE keeps your prompt during setup and trial activation, then sends it once when the assistant is ready.
+- Continue to screen recording or transcript editing after starting your trial from that feature.
+- Keep the timeline ruler readable when scrolling through tracks.
 
-[Full release notes](https://github.com/lemberalla/ave-releases-v2/releases/tag/v1.3.5)
+[Full release notes](https://github.com/lemberalla/ave-releases-v2/releases/tag/v1.3.6)
 
 ## Built for real editing
 

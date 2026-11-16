@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>A local-first AI video editor for macOS.</strong><br>
-  Import footage, find the right moments, preview the edit plan, approve real timeline changes and export locally.
+  Import footage, find the right moments, edit with the assistant and export locally.
 </p>
 
 <p align="center">
@@ -27,16 +27,19 @@
 
 AVE combines a real non-linear editor with project-aware AI. Search and reason over existing footage, generate new video or images with your own provider accounts, and keep timeline changes visible and editable.
 
-## Latest release — AVE 1.3.6
+## Latest release — AVE 1.3.7
 
-Set up the editing assistant from chat and pick up where you left off.
+**Edit from a reference video**
 
-- The first Send guides you through choosing a local model or connecting an assistant when setup is needed.
-- AVE keeps your prompt during setup and trial activation, then sends it once when the assistant is ready.
-- Continue to screen recording or transcript editing after starting your trial from that feature.
-- Keep the timeline ruler readable when scrolling through tracks.
+Give the assistant a video from your project and use its pacing and shot choices to shape a new cut from your footage.
 
-[Full release notes](https://github.com/lemberalla/ave-releases-v2/releases/tag/v1.3.6)
+- Drag a video from Assets into chat to start a reference prompt. AVE can use shot timing and camera cues while keeping the reference out of the new cut.
+- The Smart and Reason picker is gone. AVE automatically chooses between direct editing tools and model reasoning. Use Ask for questions or direct edits, and Plan to review changes before applying them.
+- Routine assistant and MCP edits apply directly. Destructive actions still ask for confirmation, and clip removals can be reviewed together by sequence.
+- The assistant uses the sequence that was open when you sent the prompt, even if you switch sequences while it works.
+- Timelines with lots of short clips load thumbnails more efficiently.
+
+[Full release notes](https://github.com/lemberalla/ave-releases-v2/releases/tag/v1.3.7)
 
 ## Built for real editing
 

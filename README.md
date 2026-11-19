@@ -27,19 +27,13 @@
 
 AVE combines a real non-linear editor with project-aware AI. Search and reason over existing footage, generate new video or images with your own provider accounts, and keep timeline changes visible and editable.
 
-## Latest release — AVE 1.3.7
+## Latest release — AVE 1.3.8
 
-**Edit from a reference video**
+**Your first edit in AVE**
 
-Give the assistant a video from your project and use its pacing and shot choices to shape a new cut from your footage.
+Start with your footage or a sample, then follow the editor tips through your first cut. Choose an offline assistant or connect your own AI provider. Open the finished video from its export card in chat.
 
-- Drag a video from Assets into chat to start a reference prompt. AVE can use shot timing and camera cues while keeping the reference out of the new cut.
-- The Smart and Reason picker is gone. AVE automatically chooses between direct editing tools and model reasoning. Use Ask for questions or direct edits, and Plan to review changes before applying them.
-- Routine assistant and MCP edits apply directly. Destructive actions still ask for confirmation, and clip removals can be reviewed together by sequence.
-- The assistant uses the sequence that was open when you sent the prompt, even if you switch sequences while it works.
-- Timelines with lots of short clips load thumbnails more efficiently.
-
-[Full release notes](https://github.com/lemberalla/ave-releases-v2/releases/tag/v1.3.7)
+[Full release notes](https://github.com/lemberalla/ave-releases-v2/releases/tag/v1.3.8)
 
 ## Built for real editing
 
